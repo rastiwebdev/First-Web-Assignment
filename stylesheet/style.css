@@ -92,3 +92,35 @@ header{
   color: #252432;
   padding-bottom: 37px;
 }
+
+.act{
+  margin: 116px auto;
+  display: flex;
+  justify-content: center;
+}
+.act-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 220px;
+  width: 1140px;
+  margin: 0 auto;
+}
+.act-left-side h1{
+  font-weight: bold;
+  font-size: 42px;
+  color: #252432;
+  margin-bottom: 23px;
+}
+.act-left-side p{
+  font-weight: 400;
+  font-size: 24px;
+  line-height:30px;
+  color: #252432;
+  margin-bottom: 23px;
+}
+.act-right-side img{
+  max-width: 403px;
+  height: 328px;
+  border-radius: 48px;
+}
