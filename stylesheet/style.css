@@ -206,3 +206,34 @@ header{
   font-size: 12px;
   color: #999;
 }
+.better{
+  margin: 116px auto 90px;
+}
+.better-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+  padding: 150px;
+  margin: 71px auto;
+  border-radius: 14px ;
+}
+.better-content{
+  margin: 20px auto;
+}
+.better-content h1{
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 120%;
+  padding-bottom: 20px;
+}
+.better-content p{
+  font-weight: 400;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.better-image img{
+  max-width: 840px;
+  border-radius: 48px;
+}
