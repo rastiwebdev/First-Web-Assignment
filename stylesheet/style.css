@@ -153,3 +153,32 @@ header{
   color: rgba(0,0,0,0.5);
   margin: 5px 0 0;
   }
+.customers-section {
+  text-align: center;
+  margin: 137px auto;
+}
+.customers-section h2 {
+  font-weight: bold;
+  font-size: 42px;
+  color:#252432 ;
+  margin-bottom: 50px;
+}
+.id-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.id-card {
+  background-color: #fff;
+  border: 1px solid #f2eded;
+  border-radius: 14px;
+  padding: 24px;
+  width: 300px;
+  text-align: left;
+}
+.stars {
+  color: #FFB805;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
