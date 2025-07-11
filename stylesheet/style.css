@@ -294,3 +294,28 @@ footer{
   height:428px;
 
 }
+.logo {
+  font-weight: bolder;
+  font-size: 80px;
+  color: #4E47FF;
+  margin-bottom: 10px;
+  align-items: center;
+}
+.tagline {
+  color: #8987A1;
+  font-size: 20px;
+  max-width: 600px;
+  text-align: center;
+}
+.nav {
+  margin-top: 20px;
+}
+.nav a {
+  color: #8987a1;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+}
+.nav a:hover {
+  color: #4E47FF;
+}
