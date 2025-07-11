@@ -237,3 +237,31 @@ header{
   max-width: 840px;
   border-radius: 48px;
 }
+.get{
+  margin: 0 auto;
+}
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 115px;
+}
+.left-side{
+  flex: 1;
+  max-width: 528px;
+  height: 232px;
+}
+.section-title {
+  font-size: 97px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 120%;
+}
+.right-side {
+  flex: 1;
+  max-width: 497px;
+  padding: 30px;
+}
+.form-group {
+  margin-bottom: 20px;
+}
